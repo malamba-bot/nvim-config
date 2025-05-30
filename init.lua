@@ -30,5 +30,6 @@ require("lazy").setup("plugins",
 })
 -- Load vim options
 require("vim-options")
+require("keybinds")
 
 
